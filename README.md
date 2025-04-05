@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1Hiddenview
 - 👀 I’m interested in programming,cyber security, IT, networking, pentesting,coding, AI, web development, data analysis. Anything computer related or networking related. 
-- 🌱 I’m currently a few months away from graduating college for cybersecurity and information texhnology. I will recieve my Bachelors degree in Computer Science. 
+- 🌱 I’m currently a few months away from graduating college for cybersecurity and information technology. I will recieve my Bachelors degree in Computer Science. 
 - 💞️ I’m looking to collaborate on computer stuff, networking, programming coding etc. 
 - 📫 How to reach me email is best. 
 - 😄 Pronouns: she,her
